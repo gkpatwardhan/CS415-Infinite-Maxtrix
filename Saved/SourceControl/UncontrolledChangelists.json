@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/Noise09.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/Noise08.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/Noise11.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/Noise04.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/Noise06.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/Noise12.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/Noise07.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/Noise02.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/Noise01.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/T_Beam_01.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Energy_1.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Enemy_Color.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Pickup_Magic.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Gold_Color.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Camera_Shake.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Camera_Shake.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Projectile_Color.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Projectile_Color.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Pickup_Gem.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Gold_Color.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/GoldColor.uasset",
+				"/Users/JXK678/Personal/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Enemy_Color.uasset"
+			]
+		}
+	]
+}
